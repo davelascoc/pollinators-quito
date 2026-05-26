@@ -48,5 +48,5 @@ This pollination project began in **2022**, prior to his specialization in marin
 🔗 GitHub: [[davelascoc](https://github.com/davelascoc)]  
 🔗 LinkedIn: [[davelascoc](https://www.linkedin.com/in/davelascoc)]
 
-<img src="Images/Agapostemon.jpeg" width="80%">
+<img src="Images/Agapostemon.jpeg" width="60%">
 

@@ -2,10 +2,10 @@
 
 # Pollination Ecology in Quito, Ecuador
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2026.05.21.726748v1-darkred)](https://www.biorxiv.org/content/10.64898/2026.05.21.726748v1)
-[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.20331044.svg)](https://doi.org/10.5281/zenodo.20331044)
+[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281/zenodo.20331044-darkblue)](https://doi.org/10.5281/zenodo.20331044)
+![License](https://img.shields.io/badge/License-CC--BY--4.0-blue)
 
-![Status](https://img.shields.io/badge/manuscript-under_review-orange)
-![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)
+![Status](https://img.shields.io/badge/Journal_of_Urban_Ecology-Under_Review-orange)
 
 This repository contains data and code related to research on plant–pollinator communities. This project was led by Daniel Velasco, a USFQ alumnus and research associate at the Tropical Biodiversity Institute (IBIOTROP), Universidad San Francisco de Quito (USFQ).
 

@@ -26,7 +26,6 @@ Our work describes the structure of plant–pollinator communities in the Quito 
 
 ```text
 ├── Code/              R markdown and .html file with analysis workflows
-├── Data/              Raw and processed datasets
 ├── Images/            Examples of photographies of pollination
 ├── Results/           Outputs and visualizations, including supplementary materials
 └── README.md

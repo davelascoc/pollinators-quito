@@ -1,4 +1,4 @@
-<img src="Images/Agapostemon.jpeg" alt="Pollination">
+<img src="Images/iNat Project Background.png" alt="Pollination">
 
 # Pollination Ecology in Quito, Ecuador
 
@@ -9,3 +9,5 @@ Our work describes the structure of plant–pollinator communities in the Quito 
 - A brief guide to the code used in this research can be found <a href="https://davelascoc.github.io/pollinators-quito/Code/Pollinators_2026.html">here</a>.
 - You can explore all citizen science records in our <a href="https://www.inaturalist.org/projects/polinizacion-quito">iNaturalist project</a>.
 - The dataset and supplementary tables are available <a href="https://doi.org/10.5281/zenodo.20331044">here</a>.
+
+<img src="Images/Study Area Pollinators.png" alt="iNaturalist Project Study Area">

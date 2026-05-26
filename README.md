@@ -1,4 +1,4 @@
-<img src="Images/Agapostemon" alt="Pollination">
+<img src="Images/Agapostemon.jpeg" alt="Pollination">
 
 # Pollination Ecology in Quito, Ecuador
 

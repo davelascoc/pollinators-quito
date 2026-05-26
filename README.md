@@ -1,7 +1,7 @@
 <img src="Images/iNat Project Background.png" width="80%">
 
 # Using Citizen Science to Study Pollination Ecology in Quito, Ecuador
-[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2026.05.21.726748v1-darkred)](https://www.biorxiv.org/content/10.64898/2026.05.21.726748v1)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2026.05.21.726748v1-darkred)](https://doi.org/10.64898/2026.05.21.726748)
 [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281/zenodo.20331044-darkblue)](https://doi.org/10.5281/zenodo.20331044)
 ![License](https://img.shields.io/badge/License-CC--BY--4.0-blue)
 
@@ -11,6 +11,7 @@ This repository contains data and code related to research on plant–pollinator
 
 Despite Ecuador’s high biodiversity, quantitative studies on pollinator interactions remain limited in many regions.
 
+- Read about our first study (preprint) in <a href="https://doi.org/10.64898/2026.05.21.726748">bioRxiv</a>.
 - A brief guide to the code used in this research can be found <a href="https://davelascoc.github.io/pollinators-quito/Code/Pollinators_2026.html">here</a>.
 - You can explore all citizen science records in our <a href="https://www.inaturalist.org/projects/polinizacion-quito">iNaturalist project</a>.
 - The dataset and supplementary tables are also available in <a href="https://doi.org/10.5281/zenodo.20331044">Zenodo</a>.

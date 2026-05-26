@@ -7,17 +7,6 @@
 
 ![Status](https://img.shields.io/badge/Journal_of_Urban_Ecology-Under_Review-orange)
 
-This repository contains data and code related to research on plant–pollinator communities. Our work describes the structure of plant–pollinator communities in the Quito Valley, and our first publication focuses on hymenopteran insects, specifically bees and wasps. The manuscript is currently under consideration at the Journal of Urban Ecology.
-
-Despite Ecuador’s high biodiversity, quantitative studies on pollinator interactions remain limited in many regions.
-
-- Read our first study (preprint) in <a href="https://doi.org/10.64898/2026.05.21.726748">bioRxiv</a>.
-- A brief guide to the code used in this research can be found <a href="https://davelascoc.github.io/pollinators-quito/Code/Pollinators_2026.html">here</a>.
-- You can explore all citizen science records in our <a href="https://www.inaturalist.org/projects/polinizacion-quito">iNaturalist project</a>.
-- The dataset and supplementary tables are also available in <a href="https://doi.org/10.5281/zenodo.20331044">Zenodo</a>.
-
----
-
 ## Repository Structure
 ```text
 ├── Code/              R markdown and .html file with analysis workflows
@@ -26,16 +15,33 @@ Despite Ecuador’s high biodiversity, quantitative studies on pollinator intera
 └── README.md
 ```
 
+This repository contains data, code, and supplementary materials related to research on plant–pollinator communities in Quito, Ecuador. Our first publication focuses on hymenopteran pollinators (bees and wasps) and is currently under review at the *Journal of Urban Ecology*.
+
+## Resources
+
+- Read our first study (preprint) in <a href="https://doi.org/10.64898/2026.05.21.726748">bioRxiv</a>.
+- A brief guide to the code used in this research can be found <a href="https://davelascoc.github.io/pollinators-quito/Code/Pollinators_2026.html">here</a>.
+- You can explore all citizen science records in our <a href="https://www.inaturalist.org/projects/polinizacion-quito">iNaturalist project</a>.
+- The dataset and supplementary tables are also available in <a href="https://doi.org/10.5281/zenodo.20331044">Zenodo</a>.
+
 ---
 
-## Study Area
+## Citation
+
+Please cite the associated publication and dataset when using materials from this repository.
+
+Publication: DOI: 10.64898/2026.05.21.726748  
+Dataset: DOI: 10.5281/zenodo.20331044
+
+Velasco-Cedeño, D., Miranda-Moyano, N., Moya, G. F., & Cisneros-Heredia, D. (2026). Ecological Patterns of Hymenopteran Pollinators in an Andean Urban Area Derived from Participatory Science.
+
+---
+
+## Background & Project Impact
+
 <img src="Images/Study Area Polinators.png" width="80%">
 
-The interaction dataset used in this analysis was derived from participatory science records obtained through the iNaturalist platform. Records correspond to observations from the inter-Andean valley of Quito, Ecuador. Observations were manually reviewed, curated, and identified to the lowest feasible taxonomic level. Only records showing potential pollination interactions (i.e., insects in contact with or near reproductive floral structures) were retained for the analyses.
-
----
-
-## Project Impact
+Despite Ecuador’s high biodiversity, quantitative studies on pollinator interactions remain limited in many regions. This project explores plant–pollinator communities in Quito through citizen science records and ecological analyses, aiming to support biodiversity research and monitoring in Ecuador.
 
 This project documented numerous plant–pollinator interactions across Quito, revealing a diverse assemblage of hymenopteran pollinators associated with urban and peri-urban flora. Given the limited research on pollination ecology in Ecuadorian cities, citizen science has become an important tool for generating biodiversity records and expanding ecological knowledge at broad spatial and temporal scales. The records also highlight the frequent occurrence of the introduced honey bee (*Apis mellifera*), whose interactions with native pollinators may influence resource competition, community composition, and pollination dynamics, emphasizing the importance of long-term monitoring of native bee populations in Ecuador.
 
@@ -43,22 +49,25 @@ This project documented numerous plant–pollinator interactions across Quito, r
 
 ---
 
-## Future Directions & Collaboration
-
-The analyses and manuscript currently available focus only on **Hymenoptera (bees and wasps)**. Future work aims to expand to additional pollinator groups including **Lepidoptera, Diptera, and Coleoptera**, providing a broader understanding of pollination ecology in the Quito Valley. The methodology developed here is also being adapted to studies in the **Galápagos Islands**, where documenting interactions involving native and nonnative species are crucial for ecological monitoring and conservation efforts.
-
-This repository represents an ongoing project rather than a completed product. Contributions and collaborations are welcome, particularly from students or researchers interested in pollination ecology and citizen science applications.
-
 ## About the Project
 
 This project was initiated in **2022** by **Daniel Velasco**, a USFQ alumnus, while working on terrestrial ecology at the Tropical Biodiversity Institute IBIOTROP, USFQ, before specializing in marine ecology.
 
 Although his current research focuses largely on marine ecosystems, this project remains active as a long-term effort to document pollinator communities and plant–pollinator interactions in Ecuador. The work of botanists **Nelson Miranda** and **Gabriela Moya** has been essential for plant identifications. **Diego Cisneros-Heredia** contributed to the conceptualization and development of the project.
 
+## Future Directions & Collaboration
+
+The analyses and manuscript currently available focus only on **Hymenoptera (bees and wasps)**. Future work aims to expand to additional pollinator groups including **Lepidoptera, Diptera, and Coleoptera**, providing a broader understanding of pollination ecology in the Quito Valley. The methodology developed here is also being adapted to studies in the **Galápagos Islands**, where documenting interactions involving native and nonnative species is crucial for ecological monitoring and conservation efforts.
+
+This repository represents an ongoing project rather than a completed product. Contributions and collaborations are welcome, particularly from students or researchers interested in pollination ecology and citizen science applications.
+
 ### Contact
+
+Students interested in ecology, biodiversity, citizen science, taxonomy, or ecological networks are encouraged to contribute or reach out.
+
 📧 Email: velascodaniel2002@gmail.com  
-🔗 LinkedIn: [davelascoc](https://www.linkedin.com/in/davelascoc)
 🔗 ResearchGate: [Daniel Velasco-Cedeño](https://www.researchgate.net/profile/Daniel-Velasco-Cedeno)
-🔗 Instagram: [davelasco_bio](https://www.instagram.com/davelasco_bio)
+🔗 ORCID: [0000-0002-9527-5271](https://orcid.org/0000-0002-9527-5271)
+🔗 LinkedIn: [davelascoc](https://www.linkedin.com/in/davelascoc)
 
 <img src="Images/Agapostemon.jpeg" width="60%">

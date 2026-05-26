@@ -38,7 +38,7 @@ The interaction dataset used in this analysis was derived from participatory sci
 
 This project documented numerous plant–pollinator interactions across Quito, revealing a diverse assemblage of hymenopteran pollinators associated with urban and peri-urban flora. Given the limited research on pollination ecology in Ecuadorian cities, citizen science has become an important tool for generating biodiversity records and expanding ecological knowledge at broad spatial and temporal scales. The records also highlight the frequent occurrence of the introduced honey bee (*Apis mellifera*), whose interactions with native pollinators may influence resource competition, community composition, and pollination dynamics, emphasizing the importance of long-term monitoring of native bee populations in Ecuador.
 
-<img src="Results/Graphical Abstract Hymenoptera.png" width="80%">
+<img src="Results/Graphical Abstract Hymenoptera.png" width="70%">
 
 ---
 
@@ -54,10 +54,9 @@ This pollination project began in **2022**, prior to his specialization in marin
 
 ### Contact
 📧 Email: velascodaniel2002@gmail.com  
-🔗 ORCID: [0000-0002-9527-5271](https://orcid.org/0000-0002-9527-5271)
-🔗 GitHub: [davelascoc](https://github.com/davelascoc)
 🔗 LinkedIn: [davelascoc](https://www.linkedin.com/in/davelascoc)
-🔗 Instagram: [davelascoc](https://www.instagram.com/davelasco_bio/)
+🔗 ResearchGate: [Daniel Velasco-Cedeño](https://www.researchgate.net/profile/Daniel-Velasco-Cedeno)
+🔗 Instagram: [davelascoc](https://www.instagram.com/davelasco_bio)
 
 <img src="Images/Agapostemon.jpeg" width="60%">
 

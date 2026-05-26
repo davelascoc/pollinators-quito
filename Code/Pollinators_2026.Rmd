@@ -310,7 +310,7 @@ plot(mynet, layout=layout.circle, edge.curved=.07)
 
 After edition:
 
-![Final Image: Graphical Abstract. Pollination Network](../Results/Fig. 2. Networks by Origin.png)
+![Final Image: Graphical Abstract. Pollination Network](../Results/Graphical Abstract Hymenoptera.png)
 
 ```{r rm objs, include=FALSE}
 rm(master0, deg, spp, mynet)

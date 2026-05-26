@@ -54,6 +54,6 @@ This pollination project began in **2022**, prior to his specialization in marin
 📧 Email: velascodaniel2002@gmail.com  
 🔗 LinkedIn: [davelascoc](https://www.linkedin.com/in/davelascoc)
 🔗 ResearchGate: [Daniel Velasco-Cedeño](https://www.researchgate.net/profile/Daniel-Velasco-Cedeno)
-🔗 Instagram: [davelascoc](https://www.instagram.com/davelasco_bio)
+🔗 Instagram: [davelasco_bio](https://www.instagram.com/davelasco_bio)
 
 <img src="Images/Agapostemon.jpeg" width="60%">

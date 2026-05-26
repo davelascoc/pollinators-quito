@@ -1,8 +1,8 @@
 <img src="Images/iNat Project Background.png" width="80%">
 
 # Pollination Ecology in Quito, Ecuador
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20331044.svg)](https://doi.org/10.5281/zenodo.20331044)
-[![Preprint](https://img.shields.io/badge/Preprint-bioRxiv-darkred)](https://www.biorxiv.org/content/10.64898/2026.05.21.726748v1)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2026.05.21.726748v1-darkred)](https://www.biorxiv.org/content/10.64898/2026.05.21.726748v1)
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.20331044.svg)](https://doi.org/10.5281/zenodo.20331044)
 
 ![Status](https://img.shields.io/badge/manuscript-under_review-orange)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)

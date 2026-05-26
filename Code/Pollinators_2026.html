@@ -638,7 +638,7 @@ in the study.</p>
 <span id="cb14-28"><a href="#cb14-28" tabindex="-1"></a>             <span class="fu">intersect</span>(top_plants, <span class="fu">colnames</span>(m1)), drop <span class="ot">=</span> <span class="cn">FALSE</span>]</span>
 <span id="cb14-29"><a href="#cb14-29" tabindex="-1"></a></span>
 <span id="cb14-30"><a href="#cb14-30" tabindex="-1"></a><span class="co"># Convert to numeric matrix</span></span>
-<span id="cb14-31"><a href="#cb14-31" tabindex="-1"></a>m1.abs <span class="ot">&lt;-</span> <span class="fu">as.matrix</span>(m1.abs)</span>
+<span id="cb14-31"><a href="#cb14-31" tabindex="-1"></a>m1.abs <span class="ot">&lt;-</span> <span class="fu">t</span>(<span class="fu">as.matrix</span>(m1.abs))</span>
 <span id="cb14-32"><a href="#cb14-32" tabindex="-1"></a></span>
 <span id="cb14-33"><a href="#cb14-33" tabindex="-1"></a><span class="fu">storage.mode</span>(m1.abs) <span class="ot">&lt;-</span> <span class="st">&quot;numeric&quot;</span></span>
 <span id="cb14-34"><a href="#cb14-34" tabindex="-1"></a></span>
@@ -647,10 +647,10 @@ in the study.</p>
 <span id="cb14-37"><a href="#cb14-37" tabindex="-1"></a></span>
 <span id="cb14-38"><a href="#cb14-38" tabindex="-1"></a><span class="co">#type es TRUE/FALSE por modo. Al sumarle 1 obtienes 1/2 para indexar vectores de dos colores/formatos.</span></span>
 <span id="cb14-39"><a href="#cb14-39" tabindex="-1"></a><span class="fu">V</span>(mynet)<span class="sc">$</span>type</span></code></pre></div>
-<pre><code>#&gt;  [1] FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE  TRUE
-#&gt; [13]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE</code></pre>
+<pre><code>#&gt;  [1] FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+#&gt; [13] FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE</code></pre>
 <div class="sourceCode" id="cb16"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" tabindex="-1"></a><span class="fu">V</span>(mynet)<span class="sc">$</span>type<span class="sc">+</span><span class="dv">1</span></span></code></pre></div>
-<pre><code>#&gt;  [1] 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2</code></pre>
+<pre><code>#&gt;  [1] 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2</code></pre>
 <div class="sourceCode" id="cb18"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" tabindex="-1"></a><span class="co">#calc la centralidad por grado. Devuelve una lista; los valores están en degrees.</span></span>
 <span id="cb18-2"><a href="#cb18-2" tabindex="-1"></a>deg <span class="ot">=</span> <span class="fu">centr_degree</span>(mynet, <span class="at">mode =</span> <span class="st">&quot;all&quot;</span>)</span>
 <span id="cb18-3"><a href="#cb18-3" tabindex="-1"></a></span>
@@ -686,7 +686,7 @@ in the study.</p>
 <p><img src="Pollinators_2026_files/figure-html/graphical%20abstract-1.png" alt="" width="100%" style="display: block; margin: auto;" /></p>
 <p>After edition:</p>
 <div class="float">
-<img src="../Results/Graphical%20Abstract%20Hymenoptera.png"
+<img src="../Results/Fig.%202.%20Networks%20by%20Origin.png"
 alt="Final Image: Graphical Abstract. Pollination Network" />
 <div class="figcaption">Final Image: Graphical Abstract. Pollination
 Network</div>

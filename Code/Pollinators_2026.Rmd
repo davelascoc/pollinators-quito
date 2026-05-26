@@ -263,7 +263,7 @@ m1.abs <- m1[intersect(rownames(m1), top_insects),
              intersect(top_plants, colnames(m1)), drop = FALSE]
 
 # Convert to numeric matrix
-m1.abs <- as.matrix(m1.abs)
+m1.abs <- t(as.matrix(m1.abs))
 
 storage.mode(m1.abs) <- "numeric"
 
@@ -310,10 +310,10 @@ plot(mynet, layout=layout.circle, edge.curved=.07)
 
 After edition:
 
-![Final Image: Graphical Abstract. Pollination Network](../Results/Graphical Abstract Hymenoptera.png)
+![Final Image: Graphical Abstract. Pollination Network](../Results/Fig. 2. Networks by Origin.png)
 
 ```{r rm objs, include=FALSE}
-rm(master0, m1.abs, deg, spp, mynet)
+rm(master0, deg, spp, mynet)
 ```
 
 # Statistical Analysis

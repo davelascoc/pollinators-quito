@@ -1,7 +1,6 @@
 <img src="Images/iNat Project Background.png" width="80%">
 
 # Pollination Ecology in Quito, Ecuador
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20331044.svg)](https://doi.org/10.5281/zenodo.20331044)
 ![Status](https://img.shields.io/badge/manuscript-under_review-orange)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)
@@ -16,16 +15,35 @@ Our work describes the structure of plant–pollinator communities in the Quito 
 
 ---
 
-## Study Area
-
-<img src="Images/Study Area Polinators.png" width="80%">
-
----
-
 ## Repository Structure
-
 ```text
 ├── Code/              R markdown and .html file with analysis workflows
 ├── Images/            Examples of photographies of pollination
 ├── Results/           Outputs and visualizations, including supplementary materials
 └── README.md
+```
+
+---
+
+## Study Area
+<img src="Images/Study Area Polinators.png" width="80%">
+
+The interaction dataset used in this analysis was derived from participatory science records obtained through the iNaturalist platform. Records correspond to observations from the inter-Andean valley of Quito, Ecuador. Observations were manually reviewed, curated, and identified to the lowest feasible taxonomic level. Only records showing potential pollination interactions (i.e., insects in contact with or near reproductive floral structures) were retained for the analyses.
+
+---
+
+## Future Steps
+The analyses and manuscript currently available focus only on **Hymenoptera (bees and wasps)**. Future work aims to expand analyses to additional pollinator groups including **Lepidoptera, Diptera, and Coleoptera**, potentially providing a more complete picture of pollination ecology in the Quito Valley.
+
+Collaborations are welcome, particularly from students interested in pollination ecology, citizen science, or ecological network analysis.
+
+## About the Author
+**Daniel Velasco** is a marine biologist whose work currently focuses on marine ecology—coral restoration and pelagic species ecology—in Ecuador and the Galápagos Islands. However, his interests have long extended to broader biodiversity, ecological interactions, and conservation across terrestrial and coastal ecosystems.
+
+This pollination project began in **2022**, prior to his specialization in marine ecology. Although current research efforts are largely marine-focused, this project remains active and intended as a long-term contribution to understanding pollinator communities in Ecuador.
+
+### Contact
+📧 Email: velascodaniel2002@gmail.com  
+🔗 ORCID: [[0000-0002-9527-5271](https://orcid.org/0000-0002-9527-5271)]  
+🔗 GitHub: [[davelascoc](https://github.com/davelascoc)]  
+🔗 LinkedIn: [[davelascoc](https://www.linkedin.com/in/davelascoc)]

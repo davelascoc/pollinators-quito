@@ -52,9 +52,9 @@ This pollination project began in **2022**, prior to his specialization in marin
 
 ### Contact
 📧 Email: velascodaniel2002@gmail.com  
-🔗 ORCID: [[0000-0002-9527-5271](https://orcid.org/0000-0002-9527-5271)]  
-🔗 GitHub: [[davelascoc](https://github.com/davelascoc)]  
-🔗 LinkedIn: [[davelascoc](https://www.linkedin.com/in/davelascoc)]
+🔗 ORCID: [0000-0002-9527-5271](https://orcid.org/0000-0002-9527-5271)
+🔗 GitHub: [davelascoc](https://github.com/davelascoc)
+🔗 LinkedIn: [davelascoc](https://www.linkedin.com/in/davelascoc)
 
 <img src="Images/Agapostemon.jpeg" width="60%">
 

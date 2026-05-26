@@ -33,11 +33,11 @@ The interaction dataset used in this analysis was derived from participatory sci
 ---
 
 ## Future Steps
-The analyses and manuscript currently available focus only on **Hymenoptera (bees and wasps)**. Future work aims to expand analyses to additional pollinator groups including **Lepidoptera, Diptera, and Coleoptera**, potentially providing a more complete picture of pollination ecology in the Quito Valley.
+The analyses and manuscript currently available focus only on **Hymenoptera (bees and wasps)**. Future work aims to expand analyses to additional pollinator groups including **Lepidoptera, Diptera, and Coleoptera**, potentially providing a more complete picture of pollination ecology in the Quito Valley. Also, the same methodology is being applied in the Galápagos, where monitoring nonnative species is crucial.
 
 Collaborations are welcome, particularly from students interested in pollination ecology, citizen science, or ecological network analysis.
 
-## About the Author
+## About the Project Leader
 **Daniel Velasco** is a marine biologist whose work currently focuses on marine ecology—coral restoration and pelagic species ecology—in Ecuador and the Galápagos Islands. However, his interests have long extended to broader biodiversity, ecological interactions, and conservation across terrestrial and coastal ecosystems.
 
 This pollination project began in **2022**, prior to his specialization in marine ecology. Although current research efforts are largely marine-focused, this project remains active and intended as a long-term contribution to understanding pollinator communities in Ecuador.

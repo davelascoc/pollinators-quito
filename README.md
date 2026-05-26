@@ -32,6 +32,14 @@ The interaction dataset used in this analysis was derived from participatory sci
 
 ---
 
+## Project Impact
+
+This project documented numerous plant–pollinator interactions across Quito, revealing a diverse assemblage of hymenopteran pollinators associated with urban and peri-urban flora. Given the limited research on pollination ecology in Ecuadorian cities, citizen science has become an important tool for generating biodiversity records and expanding ecological knowledge at broad spatial and temporal scales. The records also highlight the frequent occurrence of the introduced honey bee (*Apis mellifera*), whose interactions with native pollinators may influence resource competition, community composition, and pollination dynamics, emphasizing the importance of long-term monitoring of native bee populations in Ecuador.
+
+<img src="Results/Graphical Abstract Hymenoptera.png" width="80%">
+
+---
+
 ## Future Steps
 The analyses and manuscript currently available focus only on **Hymenoptera (bees and wasps)**. Future work aims to expand analyses to additional pollinator groups including **Lepidoptera, Diptera, and Coleoptera**, potentially providing a more complete picture of pollination ecology in the Quito Valley. Also, the same methodology is being applied in the Galápagos, where monitoring nonnative species is crucial.
 

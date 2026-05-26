@@ -10,4 +10,4 @@ Our work describes the structure of plant–pollinator communities in the Quito 
 - You can explore all citizen science records in our <a href="https://www.inaturalist.org/projects/polinizacion-quito">iNaturalist project</a>.
 - The dataset and supplementary tables are available <a href="https://doi.org/10.5281/zenodo.20331044">here</a>.
 
-<img src="Images/Study Area Pollinators.png" alt="iNaturalist Study Area">
+<img src="Images/Study Area Polinators.png" alt="iNaturalist Study Area">

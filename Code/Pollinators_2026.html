@@ -418,7 +418,7 @@ contains the compiled records of hymenopteran insects and their
 associated plant taxa used in the subsequent community and network
 analyses.</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" tabindex="-1"></a><span class="co">#import database</span></span>
-<span id="cb2-2"><a href="#cb2-2" tabindex="-1"></a>master0  <span class="ot">&lt;-</span>  <span class="fu">read_excel</span>(<span class="st">&quot;Datos/Datos Analizados/Rawdata_Hymenoptera.xlsx&quot;</span>)</span></code></pre></div>
+<span id="cb2-2"><a href="#cb2-2" tabindex="-1"></a>master0  <span class="ot">&lt;-</span>  <span class="fu">read_excel</span>(<span class="st">&quot;Datos/Data/Rawdata_Hymenoptera.xlsx&quot;</span>)</span></code></pre></div>
 <p>The interaction dataset used in this analysis was derived from
 participatory science records obtained through the iNaturalist platform.
 Records correspond to observations from the inter-Andean valley of
@@ -451,7 +451,7 @@ unresolved taxa.</p>
 <span id="cb3-10"><a href="#cb3-10" tabindex="-1"></a>m1      <span class="ot">&lt;-</span>  <span class="fu">as.data.frame.matrix</span>(<span class="fu">table</span>(m1<span class="sc">$</span>scientificName, m1<span class="sc">$</span>associatedTaxon))</span>
 <span id="cb3-11"><a href="#cb3-11" tabindex="-1"></a></span>
 <span id="cb3-12"><a href="#cb3-12" tabindex="-1"></a><span class="co">#order of species</span></span>
-<span id="cb3-13"><a href="#cb3-13" tabindex="-1"></a>spp     <span class="ot">&lt;-</span>  <span class="fu">read_excel</span>(<span class="st">&quot;Datos/Datos Analizados/Species Order.xlsx&quot;</span>)</span>
+<span id="cb3-13"><a href="#cb3-13" tabindex="-1"></a>spp     <span class="ot">&lt;-</span>  <span class="fu">read_excel</span>(<span class="st">&quot;Datos/Data/Species Order.xlsx&quot;</span>)</span>
 <span id="cb3-14"><a href="#cb3-14" tabindex="-1"></a>m1      <span class="ot">&lt;-</span>  m1[, <span class="fu">names</span>(spp)]      <span class="co">#set plant species in taxonomic order</span></span>
 <span id="cb3-15"><a href="#cb3-15" tabindex="-1"></a></span>
 <span id="cb3-16"><a href="#cb3-16" tabindex="-1"></a><span class="fu">class</span>(m1)</span></code></pre></div>
@@ -510,9 +510,8 @@ overview of the observed taxa.</p>
 <span id="cb7-19"><a href="#cb7-19" tabindex="-1"></a>                <span class="fu">mutate</span>(<span class="at">Rel_Abund =</span> (Freq <span class="sc">/</span> <span class="fu">sum</span>(Freq)) )  <span class="sc">%&gt;%</span> <span class="fu">arrange</span>(<span class="sc">-</span>Freq)</span></code></pre></div>
 </div>
 </div>
-<div id="network-visualization" class="section level1" number="2">
-<h1><span class="header-section-number">2</span> Network
-Visualization</h1>
+<div id="visualization" class="section level1" number="2">
+<h1><span class="header-section-number">2</span> Visualization</h1>
 <div id="general" class="section level2" number="2.1">
 <h2><span class="header-section-number">2.1</span> General</h2>
 <p>This section visualizes the full species-level insect–plant
@@ -697,8 +696,8 @@ Network</div>
 <div id="statistical-analysis" class="section level1" number="3">
 <h1><span class="header-section-number">3</span> Statistical
 Analysis</h1>
-<div id="network-stats" class="section level2" number="3.1">
-<h2><span class="header-section-number">3.1</span> Network Stats</h2>
+<div id="network-metrics" class="section level2" number="3.1">
+<h2><span class="header-section-number">3.1</span> Network Metrics</h2>
 <p>This section calculates species-level network metrics from the
 insect–plant interaction matrix. The <code>specieslevel()</code>
 function is used to estimate the relative structural importance of each
@@ -1067,8 +1066,8 @@ network and for the network excluding Apis mellifera.</p>
 <span id="cb51-2"><a href="#cb51-2" tabindex="-1"></a><span class="co">#ggsave(&quot;pcas2.png&quot;, width = 8, height = 7, dpi = 400)</span></span>
 <span id="cb51-3"><a href="#cb51-3" tabindex="-1"></a><span class="co">#ggsave(&quot;pcas2.pdf&quot;, width = 8, height = 7, dpi = 400)</span></span></code></pre></div>
 </div>
-<div id="final-tables" class="section level2" number="3.3">
-<h2><span class="header-section-number">3.3</span> Final Tables</h2>
+<div id="summary-tables" class="section level2" number="3.3">
+<h2><span class="header-section-number">3.3</span> Summary Tables</h2>
 <p>Species-level tables for export. Network metrics from the full
 interaction matrix are combined with the metrics recalculated after
 excluding <em>Apis mellifera</em>. This allows each plant and insect
@@ -1089,8 +1088,8 @@ species to be compared under both analytical scenarios.</p>
 <span id="cb52-14"><a href="#cb52-14" tabindex="-1"></a>                                  <span class="at">by =</span> <span class="st">&quot;scientificName&quot;</span>)</span>
 <span id="cb52-15"><a href="#cb52-15" tabindex="-1"></a></span>
 <span id="cb52-16"><a href="#cb52-16" tabindex="-1"></a><span class="co">#export tables</span></span>
-<span id="cb52-17"><a href="#cb52-17" tabindex="-1"></a><span class="co">#write_xlsx(table_plants_final,  &quot;Datos/Datos Analizados/Species_Plants.xlsx&quot;)</span></span>
-<span id="cb52-18"><a href="#cb52-18" tabindex="-1"></a><span class="co">#write_xlsx(table_insects_final, &quot;Datos/Datos Analizados/Species_Insects.xlsx&quot;)</span></span></code></pre></div>
+<span id="cb52-17"><a href="#cb52-17" tabindex="-1"></a><span class="co">#write_xlsx(table_plants_final,  &quot;Datos/Results/Species_Plants.xlsx&quot;)</span></span>
+<span id="cb52-18"><a href="#cb52-18" tabindex="-1"></a><span class="co">#write_xlsx(table_insects_final, &quot;Datos/Results/Species_Insects.xlsx&quot;)</span></span></code></pre></div>
 <div class="float">
 <img src="../Images/Agapostemon.jpeg" alt="Agapostemon sp." />
 <div class="figcaption">Agapostemon sp.</div>

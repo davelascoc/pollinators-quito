@@ -85,7 +85,7 @@ The raw interaction dataset is imported from an Excel file. This file contains t
 
 ```{r import data}
 #import database
-master0  <-  read_excel("Datos/Datos Analizados/Rawdata_Hymenoptera.xlsx")
+master0  <-  read_excel("Datos/Data/Rawdata_Hymenoptera.xlsx")
 ```
 
 The interaction dataset used in this analysis was derived from participatory science records obtained through the iNaturalist platform. Records correspond to observations from the inter-Andean valley of Quito, Ecuador. Observations were manually reviewed, curated, and identified to the lowest feasible taxonomic level. Only records showing potential pollination interactions (i.e., insects in contact with or near reproductive floral structures) were retained for the analyses.
@@ -109,7 +109,7 @@ m1      <-  master  %>%
 m1      <-  as.data.frame.matrix(table(m1$scientificName, m1$associatedTaxon))
 
 #order of species
-spp     <-  read_excel("Datos/Datos Analizados/Species Order.xlsx")
+spp     <-  read_excel("Datos/Data/Species Order.xlsx")
 m1      <-  m1[, names(spp)]      #set plant species in taxonomic order
 
 class(m1)
@@ -144,7 +144,7 @@ list_plant  <-  master %>%
                 mutate(Rel_Abund = (Freq / sum(Freq)) )  %>% arrange(-Freq)
 ```
 
-# Network Visualization
+# Visualization
 ## General
 
 This section visualizes the full species-level insect–plant interaction network using plotweb(). In this bipartite graph, insects and plants are represented as two separate sets of nodes, while the links between them represent observed interactions. The width of each link reflects interaction frequency, allowing highly connected taxa and dominant interactions to be visually identified.
@@ -317,7 +317,7 @@ rm(master0, m1.abs, deg, spp, mynet)
 ```
 
 # Statistical Analysis
-## Network Stats
+## Network Metrics
 
 This section calculates species-level network metrics from the insect–plant interaction matrix. The `specieslevel()` function is used to estimate the relative structural importance of each plant and insect species within the bipartite network. Five metrics are retained: degree, species strength, weighted betweenness, weighted closeness, and species specificity. These values are later used to compare the ecological roles of taxa and to summarize network position through PCA.
 
@@ -596,7 +596,7 @@ final_plot
 #ggsave("pcas2.pdf", width = 8, height = 7, dpi = 400)
 ```
 
-## Final Tables
+## Summary Tables
 
 Species-level tables for export. Network metrics from the full interaction matrix are combined with the metrics recalculated after excluding *Apis mellifera*. This allows each plant and insect species to be compared under both analytical scenarios.
 
@@ -617,8 +617,8 @@ table_insects_final  <- left_join(table_insects[,1:11], stats_insect_native2,
                                   by = "scientificName")
 
 #export tables
-#write_xlsx(table_plants_final,  "Datos/Datos Analizados/Species_Plants.xlsx")
-#write_xlsx(table_insects_final, "Datos/Datos Analizados/Species_Insects.xlsx")
+#write_xlsx(table_plants_final,  "Datos/Results/Species_Plants.xlsx")
+#write_xlsx(table_insects_final, "Datos/Results/Species_Insects.xlsx")
 ```
 
 ![Agapostemon sp.](../Images/Agapostemon.jpeg)

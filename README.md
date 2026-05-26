@@ -1,4 +1,4 @@
-<img src="Images/iNat Project Background.png" width="100%">
+<img src="Images/iNat Project Background.png" width="80%">
 
 # Pollination Ecology in Quito, Ecuador
 
@@ -18,7 +18,7 @@ Our work describes the structure of plant–pollinator communities in the Quito 
 
 ## Study Area
 
-<img src="Images/Study Area Polinators.png" width="70%">
+<img src="Images/Study Area Polinators.png" width="80%">
 
 ---
 

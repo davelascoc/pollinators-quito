@@ -1,6 +1,7 @@
 <figure align="center">
   <img src="Images/iNat Project Background.png" width="80%">
-  </figcaption>
+  
+  <figcaption>
     Pollinator species of Quito.
   </figcaption>
 </figure>

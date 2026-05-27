@@ -30,10 +30,6 @@ This repository contains data, code, and supplementary materials related to rese
 - You can explore all citizen science records in our <a href="https://www.inaturalist.org/projects/polinizacion-quito">iNaturalist project</a>.
 - The dataset and supplementary tables are also available in <a href="https://doi.org/10.5281/zenodo.20331044">Zenodo</a>.
 
----
-
-## Background & Project Impact
-
 <figure align="center">
   <img src="Images/Study Area Polinators.png" width="80%">
   
@@ -42,6 +38,9 @@ This repository contains data, code, and supplementary materials related to rese
   </figcaption>
 </figure>
 
+---
+
+## Background & Project Impact
 
 Despite Ecuador’s high biodiversity, quantitative studies on pollinator interactions remain limited in many regions. This project explores plant–pollinator communities in Quito through citizen science records and ecological analyses, aiming to support biodiversity research and monitoring in Ecuador.
 

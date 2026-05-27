@@ -33,7 +33,7 @@ This repository contains data, code, and supplementary materials related to rese
 <figure align="center">
   <img src="Images/Study Area Polinators.png" width="80%">
   
-</figcaption>
+  <figcaption>
     Map of the Quito Valley (project study area) and most common species recorded in the iNaturalist project.
   </figcaption>
 </figure>

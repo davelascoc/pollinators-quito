@@ -26,17 +26,6 @@ This repository contains data, code, and supplementary materials related to rese
 
 ---
 
-## Citation
-
-Please cite the associated publication and dataset when using materials from this repository.
-
-Publication: DOI: 10.64898/2026.05.21.726748  
-Dataset: DOI: 10.5281/zenodo.20331044
-
-Velasco-Cedeño, D., Miranda-Moyano, N., Moya, G. F., & Cisneros-Heredia, D. (2026). Ecological Patterns of Hymenopteran Pollinators in an Andean Urban Area Derived from Participatory Science.
-
----
-
 ## Background & Project Impact
 
 <img src="Images/Study Area Polinators.png" width="80%">
@@ -51,19 +40,19 @@ This project documented numerous plant–pollinator interactions across Quito, r
 
 ## About the Project
 
-This project was initiated in **2022** by **Daniel Velasco**, a USFQ alumnus, while working on terrestrial ecology at the Tropical Biodiversity Institute IBIOTROP, USFQ, before specializing in marine ecology.
+This project was initiated in **2022** by **Daniel Velasco**, a USFQ alumnus, while working on terrestrial ecology at the Tropical Biodiversity Institute IBIOTROP, USFQ, before specializing in marine ecology. Although his current research focuses largely on marine ecosystems, this project remains active as a long-term effort to document pollinator communities and plant–pollinator interactions in Ecuador.
 
-Although his current research focuses largely on marine ecosystems, this project remains active as a long-term effort to document pollinator communities and plant–pollinator interactions in Ecuador. The work of botanists **Nelson Miranda** and **Gabriela Moya** has been essential for plant identifications. **Diego Cisneros-Heredia** contributed to the conceptualization and development of the project.
+The work of botanists **Nelson Miranda** and **Gabriela Moya** has been essential for plant identifications. **Diego Cisneros-Heredia**, IBIOTROP director, advised Daniel during the conceptualization and development of the project.
 
 ## Future Directions & Collaboration
 
 The analyses and manuscript currently available focus only on **Hymenoptera (bees and wasps)**. Future work aims to expand to additional pollinator groups including **Lepidoptera, Diptera, and Coleoptera**, providing a broader understanding of pollination ecology in the Quito Valley. The methodology developed here is also being adapted to studies in the **Galápagos Islands**, where documenting interactions involving native and nonnative species is crucial for ecological monitoring and conservation efforts.
 
-This repository represents an ongoing project rather than a completed product. Contributions and collaborations are welcome, particularly from students or researchers interested in pollination ecology and citizen science applications.
+This repository represents an ongoing project. Contributions and collaborations are welcome, particularly from students or researchers interested in pollination ecology and citizen science applications.
 
 ### Contact
 
-Students interested in ecology, biodiversity, citizen science, taxonomy, or ecological networks are encouraged to contribute or reach out.
+Students interested in ecology, biodiversity, citizen science, taxonomy, or ecological networks are encouraged to reach out.
 
 📧 Email: velascodaniel2002@gmail.com  
 🔗 ResearchGate: [Daniel Velasco-Cedeño](https://www.researchgate.net/profile/Daniel-Velasco-Cedeno)

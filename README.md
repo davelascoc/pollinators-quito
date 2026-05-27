@@ -53,6 +53,7 @@ This project documented numerous plant–pollinator interactions across Quito, r
     Pollination network with the most common plant and hymenopteran species.
   </figcaption>
 </figure>
+
 ---
 
 ## About the Project

@@ -12,7 +12,7 @@
 [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281/zenodo.20331044-darkblue)](https://doi.org/10.5281/zenodo.20331044)
 ![License](https://img.shields.io/badge/License-CC--BY--4.0-blue)
 
-![Status](https://img.shields.io/badge/Journal_of_Urban_Ecology-Under_Review-orange)
+![Status](https://img.shields.io/badge/J._Urban_Ecol.-Under_Review-orange)
 
 ## Repository Structure
 ```text

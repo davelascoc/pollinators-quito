@@ -74,8 +74,9 @@ This repository represents an ongoing project. Contributions and collaborations 
 Students interested in ecology, biodiversity, citizen science, taxonomy, or ecological networks are encouraged to reach out.
 
 📧 Email: velascodaniel2002@gmail.com  
-🔗 ResearchGate: [Daniel Velasco-Cedeño](https://www.researchgate.net/profile/Daniel-Velasco-Cedeno)
 🔗 ORCID: [0000-0002-9527-5271](https://orcid.org/0000-0002-9527-5271)
+🔗 ResearchGate: [Daniel Velasco](https://www.researchgate.net/profile/Daniel-Velasco-Cedeno)
+🔗 GitHub: [davelascoc](https://github.com/davelascoc)
 🔗 LinkedIn: [davelascoc](https://www.linkedin.com/in/davelascoc)
 
 <figure align="center">

@@ -1,4 +1,10 @@
-<img src="Images/iNat Project Background.png" width="80%">
+<figure align="center">
+  <img src="Images/iNat Project Background.png" width="80%">
+  </figcaption>
+    Pollinator species of Quito.
+  </figcaption>
+</figure>
+
 
 # Using Citizen Science to Study Pollination Ecology in Quito, Ecuador
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2026.05.21.726748v1-darkred)](https://doi.org/10.64898/2026.05.21.726748)
@@ -28,14 +34,26 @@ This repository contains data, code, and supplementary materials related to rese
 
 ## Background & Project Impact
 
-<img src="Images/Study Area Polinators.png" width="80%">
+<figure align="center">
+  <img src="Images/Study Area Polinators.png" width="80%">
+  
+</figcaption>
+    Map of the Quito Valley (project study area) and most common species recorded in the iNaturalist project.
+  </figcaption>
+</figure>
+
 
 Despite Ecuador’s high biodiversity, quantitative studies on pollinator interactions remain limited in many regions. This project explores plant–pollinator communities in Quito through citizen science records and ecological analyses, aiming to support biodiversity research and monitoring in Ecuador.
 
 This project documented numerous plant–pollinator interactions across Quito, revealing a diverse assemblage of hymenopteran pollinators associated with urban and peri-urban flora. Given the limited research on pollination ecology in Ecuadorian cities, citizen science has become an important tool for generating biodiversity records and expanding ecological knowledge at broad spatial and temporal scales. The records also highlight the frequent occurrence of the introduced honey bee (*Apis mellifera*), whose interactions with native pollinators may influence resource competition, community composition, and pollination dynamics, emphasizing the importance of long-term monitoring of native bee populations in Ecuador.
 
-<img src="Results/Graphical Abstract Hymenoptera.png" width="70%">
-
+<figure align="center">
+  <img src="Results/Graphical Abstract Hymenoptera.png" width="70%">
+  
+  <figcaption>
+    Pollination network with the most common plant and hymenopteran species.
+  </figcaption>
+</figure>
 ---
 
 ## About the Project
@@ -59,4 +77,10 @@ Students interested in ecology, biodiversity, citizen science, taxonomy, or ecol
 🔗 ORCID: [0000-0002-9527-5271](https://orcid.org/0000-0002-9527-5271)
 🔗 LinkedIn: [davelascoc](https://www.linkedin.com/in/davelascoc)
 
-<img src="Images/Agapostemon.jpeg" width="60%">
+<figure align="center">
+  <img src="Images/Agapostemon.jpeg" width="60%">
+  
+  <figcaption>
+    Agapostemon sp. visiting an Asteraceae flower.
+  </figcaption>
+</figure>

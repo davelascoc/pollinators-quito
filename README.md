@@ -26,8 +26,10 @@ This repository contains data, code, and supplementary materials related to rese
 
 ## Resources
 
-- Read our first study (preprint) in <a href="https://doi.org/10.64898/2026.05.21.726748">bioRxiv</a>.
+
 - A brief guide to the code used in this research can be found <a href="https://davelascoc.github.io/pollinators-quito/Code/Pollinators_2026.html">here</a>.
+
+- Read our first study (preprint) in <a href="https://doi.org/10.64898/2026.05.21.726748">bioRxiv</a>.
 - You can explore all citizen science records in our <a href="https://www.inaturalist.org/projects/polinizacion-quito">iNaturalist project</a>.
 - The dataset and supplementary tables are also available in <a href="https://doi.org/10.5281/zenodo.20331044">Zenodo</a>.
 

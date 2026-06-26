@@ -35,7 +35,7 @@ This repository contains data, code, and supplementary materials related to rese
 - The dataset and supplementary tables are also available in <a href="https://doi.org/10.5281/zenodo.20331044">Zenodo</a>.
 
 <figure align="center">
-  <img src="Images/Study Area Polinators.png" width="80%">
+  <img src="Images/Study Area Polinators.png" width="85%">
   
   <figcaption>
     Map of the Quito Valley (project study area) and most common species recorded in the iNaturalist project.
@@ -51,7 +51,7 @@ Despite Ecuador’s high biodiversity, quantitative studies on pollinator intera
 This project documented numerous plant–pollinator interactions across Quito, revealing a diverse assemblage of hymenopteran pollinators associated with urban and peri-urban flora. Given the limited research on pollination ecology in Ecuadorian cities, citizen science has become an important tool for generating biodiversity records and expanding ecological knowledge at broad spatial and temporal scales. The records also highlight the frequent occurrence of the introduced honey bee (*Apis mellifera*), whose interactions with native pollinators may influence resource competition, community composition, and pollination dynamics, emphasizing the importance of long-term monitoring of native bee populations in Ecuador.
 
 <figure align="center">
-  <img src="Results/Graphical Abstract Hymenoptera.png" width="70%">
+  <img src="Results/Graphical Abstract Hymenoptera.png" width="80%">
   
   <figcaption>
     Pollination network with the most common plant and hymenopteran species.
@@ -83,7 +83,7 @@ Students interested in ecology, biodiversity, citizen science, taxonomy, or ecol
 🔗 LinkedIn: [davelascoc](https://www.linkedin.com/in/davelascoc)
 
 <figure align="center">
-  <img src="Images/Agapostemon.jpeg" width="60%">
+  <img src="Images/Agapostemon.jpeg" width="70%">
   
   <figcaption>
     Agapostemon sp. visiting an Asteraceae flower.

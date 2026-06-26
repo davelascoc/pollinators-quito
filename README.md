@@ -1,8 +1,9 @@
-<figure align="center">
-  <img src="Images/Cover image minimal.png" width="100%">
-  
-  <figcaption>
-    Pollinator species of Quito.
+<figure>
+  <p align="center">
+    <img src="Images/Cover%20image%20minimal.png" width="100%" alt="Pollinator species of Quito">
+  </p>
+  <figcaption align="center">
+    <em>Pollinator species of Quito.</em>
   </figcaption>
 </figure>
 
